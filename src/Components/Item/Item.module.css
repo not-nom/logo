@@ -1,0 +1,16 @@
+.item{
+    height: 60vh;       
+}
+.photo{
+    width:22vw;
+    max-height: 33vh;
+}
+.Name{
+    width: 22vw;
+}
+.InfoBlock{
+    width: 22vw;
+    height: 60px;
+    overflow: hidden;
+    transition: 1s;
+}

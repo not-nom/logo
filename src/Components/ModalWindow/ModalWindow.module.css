@@ -1,0 +1,17 @@
+.bag{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: fixed;
+    left: 0;
+    top: 0;
+
+    background-color: rgba(0, 16, 52, 0.363);
+
+    width: 100vw;
+    height: 100vh;
+}
+.photo{
+    max-width: 60%;
+}
